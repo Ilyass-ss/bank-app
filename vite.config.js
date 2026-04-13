@@ -7,7 +7,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: [
-    '/bank-app/',
-  ],
+  // base: [
+  //   '/bank-app/',
+  // ],
 })
